@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.name{
+  color: #61dafb;
+}
+.adr{
+  color: red;
+}
+  
